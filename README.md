@@ -26,9 +26,13 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mereska0&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mereska0&layout=compact&theme=tokyonight)
+
+### WakaTime!
+<img src="https://wakatime.com/share/@mereska0/c02be3c6-a6ca-4d97-b8ee-033dc8dd2095.svg" width="800" height="400">
+
 
 ---
 
