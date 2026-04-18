@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mereska0&layout=compact&theme=tokyonight)
 
 ### WakaTime!
-<img src="https://wakatime.com/share/@mereska0/9768dfe6-e772-4a4d-828f-8d7926567d55.svg" width="1000" height="600">
+![WakaTime](https://wakatime.com/share/@mereska0/1fcca40b-2d30-4e4c-a163-29e9f82b1721.svg)
 
 
 ---
