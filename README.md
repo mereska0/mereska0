@@ -7,7 +7,6 @@
 - ⚙️ Exploring backend development with Go (Golang)  
 - 🧠 Interested in scalable systems and clean architecture  
 - 🔭 Focused on improving real-world development skills  
-- 🎯 Goal: Become a strong mobile + backend engineer  
 
 ---
 
