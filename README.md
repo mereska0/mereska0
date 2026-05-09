@@ -2,28 +2,7 @@
 
 ---
 
-## 🧩 About Me
-- 📱 Building Android apps with Jetpack Compose  
-- ⚙️ Exploring backend development with Go (Golang)  
-- 🧠 Interested in scalable systems and clean architecture  
-- 🔭 Focused on improving real-world development skills  
 
----
-
-## 🛠 Tech Stack
-
-### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-blue?style=for-the-badge)
-
-### ⚙️ Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend-Development-black?style=for-the-badge)
-
----
 
 ## 📊 Stats 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mereska0&show_icons=true&theme=tokyonight)  
