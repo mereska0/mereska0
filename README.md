@@ -10,9 +10,8 @@
 Small retro-style messenger I'm building with Go, WebSockets and Flutter.  
 For now it's just a project for practising Go backend skills. Still rough, but already alive(maybe one day it will become smth bigger)
 
-### [Task Manager App](https://github.com/mereska0/task-manager-app)
-Educational full-stack-ish task manager with Go, PostgreSQL and a vanilla JS frontend
-Nothing too fancy: just CRUD, REST endpoints, database persistence and a simple browser UI
+### [2048 Game](https://github.com/mereska0/2048-game)
+Simple Android 2048 game with fancy UI(Kotlin + Jetpack Compse) 
 
 ### [Messenger App](https://github.com/mereska0/my-android-messenger)
 Android study project made with Kotlin and Jetpack Compose.  
